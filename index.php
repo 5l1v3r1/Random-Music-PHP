@@ -26,7 +26,9 @@
    
   </div>
 </nav>
-<!--- Kaan Köse ---!>
+<!--
+Kaan Köse
+ -->
 <br>
 
 
